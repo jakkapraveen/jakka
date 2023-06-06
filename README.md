@@ -1,2 +1,3 @@
 # jakka
-command for new git
+new command list for new git
+updated list
